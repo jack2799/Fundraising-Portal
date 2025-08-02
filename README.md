@@ -41,15 +41,14 @@ A modern Flutter application designed to help interns and fundraisers track dona
 - **UI**: Material Design with custom theming
 
 ## 📱 Screenshots
-![Spalsh(../screenshots/Screenshot_20250802-222343.jpg)
-![Home(../screenshots/Screenshot_20250802-222349.jpg)
-![Dashboard(../screenshots/Screenshot_20250802-222412.jpg)
-![Leasderboard(../screenshots/Screenshot_20250802-222418.jpg)
-![ANnouncement(../screenshots/Screenshot_20250802-222426.jpg)
 
 
 
-
+![Screenshot_20250802-222349](https://github.com/user-attachments/assets/8c21ddb4-d8ab-409b-af42-e4132515b326)
+![Screenshot_20250802-222343](https://github.com/user-attachments/assets/6c74cd12-5037-42f3-adee-b97d11970508)
+![Screenshot_20250802-222426](https://github.com/user-attachments/assets/68d2daf0-b542-4fb4-8ed7-470b6d52c372)
+![Screenshot_20250802-222418](https://github.com/user-attachments/assets/0d76d886-6152-4c99-bd83-cf80051cae37)
+![Screenshot_20250802-222412](https://github.com/user-attachments/assets/9c60a93a-d52b-490b-af95-c3ece24c0b62)
 
 ### Project Structure
 
