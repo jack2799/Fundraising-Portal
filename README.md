@@ -41,31 +41,15 @@ A modern Flutter application designed to help interns and fundraisers track dona
 - **UI**: Material Design with custom theming
 
 ## 📱 Screenshots
+![Spalsh(screenshots/Screenshot_20250802-222343.jpg)
+![Home(screenshots/Screenshot_20250802-222349.jpg)
+![Dashboard(screenshots/Screenshot_20250802-222412.jpg)
+![Leasderboard(screenshots/Screenshot_20250802-222418.jpg)
+![ANnouncement(screenshots/Screenshot_20250802-222426.jpg)
 
 
-### Prerequisites
-- Flutter SDK (latest stable version)
-- Dart SDK
-- Android Studio / VS Code
-- Android Emulator or Physical Device
 
-### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/fundraising-portal.git
-   cd fundraising-portal
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
 
 ### Project Structure
 
