@@ -45,6 +45,54 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.6
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/she_can_logo.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/she_can_logo.png"
+    background_color: "#FF8C00"
+    theme_color: "#FF8C00"
+
+flutter_native_splash:
+  # Background color for the splash screen
+  color: "#FF8C00"
+  
+  # Splash image (your She Can! Foundation logo) - this will be the main image
+  image: assets/she_can_logo2.png
+ 
+  
+  # Remove branding to avoid confusion
+  # branding: assets/she_can_logo.png
+  
+  # Position the main image in center (default)
+  # branding_mode: bottom
+  
+  # Branding padding from bottom
+  # branding_bottom_padding: 24
+  
+  # Android 12+ specific configuration
+  android_12:
+    image: assets/she_can_logo.png
+    color: "#FF8C00"
+    icon_background_color: "#FF8C00"
+  
+  # Platform-specific settings
+  android: true
+  ios: true
+  web: true
+  
+  # Full screen mode
+  fullscreen: true
+  
+  # Image positioning and sizing
+  image_dark: assets/she_can_logo2.png  # Same image for dark mode
+  color_dark: "#FF8C00"  # Same color for dark mode
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -58,9 +106,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/she_can_logo.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
