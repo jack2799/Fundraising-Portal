@@ -37,24 +37,18 @@ A modern Flutter application designed to help interns and fundraisers track dona
 - **Framework**: Flutter
 - **Language**: Dart
 - **Architecture**: Clean separation of concerns
-- **State Management**: Stateless widgets for optimal performance
 - **UI**: Material Design with custom theming
 
 ## 📱 Screenshots
 
-
-
-![Screenshot_20250802-222349](https://github.com/user-attachments/assets/8c21ddb4-d8ab-409b-af42-e4132515b326)
-![Screenshot_20250802-222343](https://github.com/user-attachments/assets/6c74cd12-5037-42f3-adee-b97d11970508)
-![Screenshot_20250802-222426](https://github.com/user-attachments/assets/68d2daf0-b542-4fb4-8ed7-470b6d52c372)
-![Screenshot_20250802-222418](https://github.com/user-attachments/assets/0d76d886-6152-4c99-bd83-cf80051cae37)
-![Screenshot_20250802-222412](https://github.com/user-attachments/assets/9c60a93a-d52b-490b-af95-c3ece24c0b62)
-
-<img src="https://github.com/user-attachments/assets/8c21ddb4-d8ab-409b-af42-e4132515b326" height="200" width="100">
 <img src="https://github.com/user-attachments/assets/6c74cd12-5037-42f3-adee-b97d11970508" height="200" width="100">
+<img src="https://github.com/user-attachments/assets/8c21ddb4-d8ab-409b-af42-e4132515b326" height="200" width="100">
 <img src="https://github.com/user-attachments/assets/68d2daf0-b542-4fb4-8ed7-470b6d52c372" height="200" width="100">
 <img src="https://github.com/user-attachments/assets/0d76d886-6152-4c99-bd83-cf80051cae37" height="200" width="100">
 <img src="https://github.com/user-attachments/assets/9c60a93a-d52b-490b-af95-c3ece24c0b62" height="200" width="100">
+
+
+
 ### Project Structure
 
 ```
@@ -74,27 +68,6 @@ lib/
 - **Performance Optimized** - No heavy computations or animations
 - **Clean Architecture** - Separated concerns and reusable components
 - **Accessibility** - Proper contrast and readable fonts
-
-##  Customization
-
-### Colors
-- Primary: `#667eea` (Purple)
-- Secondary: `#764ba2` (Dark Purple)
-- Success: `#4CAF50` (Green)
-- Warning: `#FF9800` (Orange)
-
-### Adding New Features
-1. Create new screen file in `lib/`
-2. Import in `home_screen.dart`
-3. Add tab in TabBar
-4. Add screen in TabBarView
-
-## 📊 Performance
-
-- **Fast Startup** - No heavy initialization
-- **Memory Efficient** - Proper disposal of controllers
-- **Smooth Navigation** - Optimized tab switching
-- **Responsive UI** - Efficient rendering
 
 
 ## 📄 License
